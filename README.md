@@ -1,7 +1,7 @@
 # 👋 Welcome to My Project Hub
 
 ## 🎓 University Projects
-- [Scholar Proejct](link)
+- [Scholar Proejct](https://github.com/Ibrahem-Ali-99/Scholar-Project)
 - [Paper](link)
 
 ## 🏆 Kaggle Competitions
