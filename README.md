@@ -2,7 +2,7 @@
 
 ## 🎓 University Projects
 - [Scholar Proejct](https://github.com/Ibrahem-Ali-99/Scholar-Project)
-- [Paper](link)
+- [XAI Paper Project](https://github.com/Ibrahem-Ali-99/XAI-in-Employee-Attrition-Prediction)
 
 ## 🏆 Kaggle Competitions
 - [KAChallenges Series 1: Classifying Math Problems](https://www.kaggle.com/code/hemalone/math-problem-classification-lgbm)
