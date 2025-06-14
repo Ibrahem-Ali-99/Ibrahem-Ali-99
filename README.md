@@ -3,6 +3,7 @@
 ## 🎓 University Projects
 - [Scholar Proejct](https://github.com/Ibrahem-Ali-99/Scholar-Project)
 - [XAI Paper Project](https://github.com/Ibrahem-Ali-99/XAI-in-Employee-Attrition-Prediction)
+- [Information Retrieval](https://github.com/Ibrahem-Ali-99/Advanced-Information-Retrieval-System-for-CORD-19)
 
 ## 🏆 Kaggle Competitions
 - [KAChallenges Series 1: Classifying Math Problems](https://www.kaggle.com/code/hemalone/math-problem-classification-lgbm)
