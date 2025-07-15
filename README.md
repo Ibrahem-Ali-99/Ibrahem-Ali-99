@@ -14,5 +14,3 @@
 - [Rainfall prediction - feature selection](https://www.kaggle.com/code/hemalone/rainfall-prediction-feature-selection)
 
 
-## 💻 Personal Projects
-- [React Portfolio Website]()
